@@ -1,7 +1,5 @@
 ![gif](https://github.com/user-attachments/assets/975b4a73-ff53-4077-bccb-9dceb51157c3)
-
-
-# 𝓝𝓪𝓶𝓪𝓼𝓽𝓮    
+ 
 
 ♡ coding • creativity • poetry ♡
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRxYTdweXhoZXdrc2dscW9uNXlsb3YzNW5ycjJnYWw1MjZpY3lvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11s7Ke7jcNxCHS/giphy.gif" width="80">

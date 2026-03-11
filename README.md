@@ -1,6 +1,8 @@
 # Namaste
 I build software, craft designs, explore innovative ideas, and find inspiration in poetry.
 
+![Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

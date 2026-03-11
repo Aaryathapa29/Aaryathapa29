@@ -1,6 +1,5 @@
 # Namaste
-
-I'm a software engineer and tech explorer who is also fond of desgining.
+I build software, craft designs, explore innovative ideas, and find inspiration in poetry.
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

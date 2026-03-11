@@ -1,6 +1,6 @@
 # Namaste
 I build software, craft designs, explore innovative ideas, and find inspiration in poetry.
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160">
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="160">
 
 
 ## 💻 Skills

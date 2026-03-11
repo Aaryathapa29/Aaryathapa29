@@ -1,4 +1,4 @@
-# ![Namaste](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif) Namaste
+# Namaste
 I build software, craft designs, explore innovative ideas, and find inspiration in poetry.
 
 

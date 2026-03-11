@@ -3,7 +3,7 @@
  
 
 ♡ coding • creativity • poetry ♡
-<img align="right" width="80" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJ2eWQxcXJidGtja2U4NWdxOWxjMzhsbWs2cnExdTV5czUxMm1yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84SFZf1BKgzeny1WxQ/giphy.gif">
+
 
 
 

@@ -16,6 +16,7 @@ I'm a software engineer and tech explorer.
 
 ## 📊 GitHub Stats
 ![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaryathapa29&show_icons=true&theme=radical)
+![Aarya Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaryathapa29&show_icons=true&theme=radical)
 
 
 

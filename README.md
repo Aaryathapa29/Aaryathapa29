@@ -11,12 +11,12 @@
 
 ## 💻 𝓼𝓴𝓲𝓵𝓵𝓼
 
-![Python](https://img.shields.io/badge/Python-7f5af0?style=for-the-badge&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-7f5af0?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-7f5af0?style=for-the-badge&logo=git&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-7f5af0?style=for-the-badge&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-7f5af0?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
-![Canva](https://img.shields.io/badge/Canva-7f5af0?style=for-the-badge&logo=canva&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-b8a1ff?style=for-the-badge&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-b8a1ff?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-b8a1ff?style=for-the-badge&logo=git&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-b8a1ff?style=for-the-badge&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-b8a1ff?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+![Canva](https://img.shields.io/badge/Canva-b8a1ff?style=for-the-badge&logo=canva&logoColor=ffffff)
 
 ## 📊 𝓖𝓲𝓽𝓱𝓾𝓫 𝓼𝓽𝓪𝓽𝓼
 

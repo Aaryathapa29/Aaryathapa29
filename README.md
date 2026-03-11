@@ -7,9 +7,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaryathapa29&show_icons=true&bg_color=0,f5f0ff,e6dcff&title_color=7f5af0&text_color=5a4fcf&icon_color=7f5af0&border_color=d6c8ff)
+![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaryathapa29&show_icons=true&bg_color=0,f3ecff,e6dbff&title_color=8a6cff&text_color=5e548e&icon_color=8a6cff&border_color=e6dbff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryathapa29&layout=compact&bg_color=0,f5f0ff,e6dcff&title_color=7f5af0&text_color=5a4fcf&border_color=d6c8ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryathapa29&layout=compact&bg_color=0,f3ecff,e6dbff&title_color=8a6cff&text_color=5e548e&border_color=e6dbff)
 
 
 

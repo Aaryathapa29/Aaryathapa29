@@ -1,12 +1,15 @@
+<!-- Top Purple Border -->
+<div style="width:100%; height:8px; background-color:#7f5af0; border-radius:4px;"></div>
+
 # Namaste        
-                  
+
 ♡ coding • creativity • poetry ♡
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRxYTdweXhoZXdrc2dscW9uNXlsb3YzNW5ycjJnYWw1MjZpY3lvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11s7Ke7jcNxCHS/giphy.gif" width="80">
+
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 ## 📊 GitHub Stats
 
@@ -15,7 +18,3 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryathapa29&layout=compact&bg_color=0,1a1423,372549&title_color=cdb4ff&text_color=b8a1ff&border_color=372549" height="165">
 </p>
-
-
-
-

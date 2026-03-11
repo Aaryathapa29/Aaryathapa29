@@ -1,3 +1,4 @@
+![gif](https://github.com/user-attachments/assets/975b4a73-ff53-4077-bccb-9dceb51157c3)
 
 
 # 𝓝𝓪𝓶𝓪𝓼𝓽𝓮    

@@ -1,9 +1,6 @@
-# Hi, I'm Aarya 👋
+# Namaste
 
 I'm a software engineer and tech explorer who is also fond of desgining.
-
-## 🌱 I’m currently learning
-- Python, JavaScript, and GitHub best practices
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

@@ -1,10 +1,6 @@
 # Hi, I'm Aarya 👋
 
-I'm a software engineer and tech explorer.
-
-## 🔭 I’m currently working on
-- My personal projects and portfolio
-- Learning more about data science and astrophysics
+I'm a software engineer and tech explorer who is also fond of desgining.
 
 ## 🌱 I’m currently learning
 - Python, JavaScript, and GitHub best practices
@@ -16,7 +12,7 @@ I'm a software engineer and tech explorer.
 
 ## 📊 GitHub Stats
 ![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaryathapa29&show_icons=true&theme=radical)
-![Aarya Thapa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaryathapa29&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryathapa29&layout=compact&theme=radical)
 
 
 

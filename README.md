@@ -1,4 +1,9 @@
-# Namaste
+# .__           .__  .__           
+|  |__   ____ |  | |  |   ____   
+|  |  \_/ __ \|  | |  |  /  _ \  
+|   Y  \  ___/|  |_|  |_(  <_> ) 
+|___|  /\___  >____/____/\____/  
+     \/     \/                   
 ♡ coding • creativity • poetry ♡
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRxYTdweXhoZXdrc2dscW9uNXlsb3YzNW5ycjJnYWw1MjZpY3lvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11s7Ke7jcNxCHS/giphy.gif" width="80">
 ## 💻 Skills

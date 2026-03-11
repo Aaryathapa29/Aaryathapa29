@@ -3,7 +3,7 @@
  
 
 ♡ coding • creativity • poetry ♡
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRxYTdweXhoZXdrc2dscW9uNXlsb3YzNW5ycjJnYWw1MjZpY3lvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11s7Ke7jcNxCHS/giphy.gif" width="80">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZibHV0dmVxNXRybnQ1YnVyNnR6ZXE5bDBuYjljZjVuMGxlMXJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TuoGKd2xOoJeLEwmE9/giphy.gif" width="80">
 
 ## 💻 𝓼𝓴𝓲𝓵𝓵𝓼
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

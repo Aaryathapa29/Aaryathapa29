@@ -25,3 +25,4 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryathapa29&layout=compact&bg_color=0,1a1423,372549&title_color=cdb4ff&text_color=b8a1ff&border_color=372549" height="165">
 </p>
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Aaryathapa29.Aaryathapa29)

@@ -18,6 +18,10 @@
 ![C++](https://img.shields.io/badge/C++-1a1423?style=for-the-badge&logo=c%2B%2B&logoColor=cdb4ff&labelColor=372549)
 ![Canva](https://img.shields.io/badge/Canva-1a1423?style=for-the-badge&logo=canva&logoColor=white&labelColor=372549)
 
+![Python](https://img.shields.io/badge/Python-1a1423?style=for-the-badge&logo=python&logoColor=cdb4ff&labelColor=372549)
+![JavaScript](https://img.shields.io/badge/JavaScript-140f1f?style=for-the-badge&logo=javascript&logoColor=e0aaff&labelColor=372549)
+![Git](https://img.shields.io/badge/Git-1a1423?style=for-the-badge&logo=git&logoColor=cdb4ff&labelColor=372549)
+
 
 
 ## 📊 𝓖𝓲𝓽𝓱𝓾𝓫 𝓼𝓽𝓪𝓽𝓼

@@ -18,8 +18,7 @@
 ![C++](https://img.shields.io/badge/C++-1a1423?style=for-the-badge&logo=c%2B%2B&logoColor=cdb4ff&labelColor=372549)
 ![Canva](https://img.shields.io/badge/Canva-1a1423?style=for-the-badge&logo=canva&logoColor=cdb4ff&labelColor=372549)
 
-![Profile Views](https://api.countapi.xyz/hit/Aaryathapa29/github-profile-views)  
-![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryathapa29&show_icons=true&theme=radical)
+
 
 ## 📊 𝓖𝓲𝓽𝓱𝓾𝓫 𝓼𝓽𝓪𝓽𝓼
 

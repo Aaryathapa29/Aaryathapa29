@@ -18,6 +18,9 @@
 ![C++](https://img.shields.io/badge/C++-1a1423?style=for-the-badge&logo=c%2B%2B&logoColor=cdb4ff&labelColor=372549)
 ![Canva](https://img.shields.io/badge/Canva-1a1423?style=for-the-badge&logo=canva&logoColor=cdb4ff&labelColor=372549)
 
+![Profile Views](https://api.countapi.xyz/hit/Aaryathapa29/github-profile-views)  
+![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryathapa29&show_icons=true&theme=radical)
+
 ## 📊 𝓖𝓲𝓽𝓱𝓾𝓫 𝓼𝓽𝓪𝓽𝓼
 
 <p align="center">
@@ -25,5 +28,4 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryathapa29&layout=compact&bg_color=0,1a1423,372549&title_color=cdb4ff&text_color=b8a1ff&border_color=372549" height="165">
 </p>
-![Profile Views](https://api.countapi.xyz/hit/Aaryathapa29/github-profile-views)  
-![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryathapa29&show_icons=true&theme=radical)
+
